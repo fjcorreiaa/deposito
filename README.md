@@ -6,7 +6,7 @@ Repositório com um desafio de código para simular um depósito bancário
 # Descrição:
 Este repositório contém um desafio de código que permite simular um depósito bancário simples em uma conta. O objetivo é criar um programa que permita aos usuários realizar depósitos em suas contas bancárias. O desafio é uma ótima oportunidade para praticar suas habilidades de programação e entender os conceitos básicos de operações bancárias.
 
-# 🚀 Funcionalidades Principal:
+# 🚀 Funcionalidade Principal:
 
 *Realizar depósitos na conta.
 
